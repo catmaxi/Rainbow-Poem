@@ -3,6 +3,7 @@ The Rainbow and the monocorn.
 Red
 Orange
 Yellow
+Indigo
 Green
 Blue
 Purple
